@@ -41,13 +41,15 @@ Wind Speed (km/h)
 Current date & time
 
 🖼 Live Demo (GitHub Pages)
-https://Hassan-13-2006.github.io/weather-app/
+ https://hassan-13-2006.github.io/weather-app/
 
 🔗 GitHub Repository
-https://github.com/Hassan-13-2006/weather-app/
+ https://github.com/Hassan-13-2006/weather-app/
 
 👨‍💻 Author
 Hassan Khan
 BCA Student | Web Developer
+
 📧 Email: khanhassan.haes@gmail.com
+
 🔗 GitHub: https://github.com/Hassan-13-2006
