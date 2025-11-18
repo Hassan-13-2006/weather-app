@@ -44,10 +44,10 @@ Current date & time
 https://Hassan-13-2006.github.io/weather-app/
 
 🔗 GitHub Repository
-https://github.com/yourusername/weather
+https://github.com/Hassan-13-2006/weather
 
 👨‍💻 Author
 Hassan Khan
 BCA Student | Web Developer
 📧 Email: khanhassan.haes@gmail.com
-🔗 GitHub: https://github.com/hassan-13-2006
+🔗 GitHub: https://github.com/Hassan-13-2006
